@@ -1,2 +1,2 @@
-# aboutislam.github.io
-Static web yang berisi tentang Islam.
+# mywrongcode.github.io
+Static web Coy
